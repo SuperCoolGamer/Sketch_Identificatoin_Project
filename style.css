@@ -1,0 +1,49 @@
+body{
+    background-color:lightgreen;
+}
+
+
+
+h1{
+    background-color:antiquewhite;
+    color:blue;
+
+}
+
+#show_sketch{
+    margin:left;
+}
+
+
+#your_sketch{
+    color:black;
+    font-size:25;
+    font-weight:bold;
+}
+
+
+#confidence{
+    color:black;
+    font-size:25;
+    font-weight:bold;
+}
+
+#sketch_drawn{
+    color:red;
+    font-size:25;
+    font-weight:bold;
+}
+
+#score{
+    color:black;
+    font-size:34;
+    font-weight:bold;
+    float:left ;
+}
+
+#timer{
+    color:black;
+    font-size:34;
+    font-weight:bold;
+    float:right;
+}
